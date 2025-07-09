@@ -12,7 +12,7 @@ namespace _24SOECE13009_Dhiraj_NB
         {
             int[] ary = new int[10];
 
-            Console.WriteLine("enter array element");
+            Console.WriteLine("Enter array element");
 
             for (int i = 0; i < ary.Length; i++)
             {
@@ -36,7 +36,7 @@ namespace _24SOECE13009_Dhiraj_NB
                     }
 
                 }
-                Console.WriteLine("frequency of {0} is {1} times ", ary[i], cnt);
+                Console.WriteLine("Frequency of {0} is {1} times ", ary[i], cnt);
             }
         }
     }
