@@ -12,7 +12,7 @@ namespace _24SOECE13009_Dhiraj_NB
         {
             int[] ary = new int[5];
 
-            Console.WriteLine("enter array element");
+            Console.WriteLine("Enter array element");
 
             for (int i = 0; i < ary.Length; i++)
             {
@@ -30,7 +30,7 @@ namespace _24SOECE13009_Dhiraj_NB
                 }
 
             }
-            Console.WriteLine("Maximum numbar is:"+a);
+            Console.WriteLine("Maximum number is:"+a);
 
 
 
