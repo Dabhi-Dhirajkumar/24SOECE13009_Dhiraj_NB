@@ -12,7 +12,7 @@ namespace _24SOECE13009_Dhiraj_NB
         {
             int[] ary = new int[5];
 
-            Console.WriteLine("enter array element");
+            Console.WriteLine("Enter array element");
 
             for (int i = 0; i < ary.Length; i++)
             {
@@ -32,7 +32,7 @@ namespace _24SOECE13009_Dhiraj_NB
 
                 }
             }
-                Console.WriteLine("sorted array elements :");
+                Console.WriteLine("Sorted array elements :");
                 for (int i = 0; i < ary.Length; i++)
                 {
                     Console.WriteLine(ary[i]);
