@@ -50,7 +50,7 @@ namespace _24SOECE13009_Dhiraj_NB
             int avg = 0;
 
             int[]ary =new int[5];
-            Console.WriteLine("enter array element");
+            Console.WriteLine("Enter array element");
 
             for (int i = 0; i < ary.Length; i++)
             {
