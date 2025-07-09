@@ -11,7 +11,7 @@ namespace _24SOECE13009_Dhiraj_NB
         static void Main(string[] args)
         {
             int[] ary = new int[5];
-            Console.WriteLine("Enter 5 array elements:");
+            Console.WriteLine("Enter 5 array elements:-");
 
             for (int i = 0; i < ary.Length; i++)
             {
@@ -19,7 +19,7 @@ namespace _24SOECE13009_Dhiraj_NB
                 ary[i] = Int32.Parse(Console.ReadLine());
             }
 
-            Console.Write("Enter element to search: ");
+            Console.Write("Enter element to search:- ");
             int searchEle = Convert.ToInt32(Console.ReadLine());
 
             int flag = 0;
