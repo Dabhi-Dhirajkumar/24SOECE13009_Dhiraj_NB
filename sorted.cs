@@ -29,7 +29,7 @@ namespace _24SOECE13009_Dhiraj_NB
                         ary[i] = ary[j];
                         ary[j] = temp;
                     }
-
+                    r
                 }
             }
                 Console.WriteLine("Sorted array elements :");

@@ -49,7 +49,7 @@ namespace _24SOECE13009_Dhiraj_NB
             //}
             int avg = 0;
 
-            int[]ary =new int[5];
+            int[] ary = new int[5];
             Console.WriteLine("Enter array element");
 
             for (int i = 0; i < ary.Length; i++)
@@ -70,7 +70,7 @@ namespace _24SOECE13009_Dhiraj_NB
 
 
 
-            avg = avg/ary.Length;
+            avg = avg / ary.Length;
             Console.WriteLine(avg);
 
 
