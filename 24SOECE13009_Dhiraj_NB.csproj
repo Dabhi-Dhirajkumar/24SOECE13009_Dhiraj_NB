@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="array.cs" />
     <Compile Include="classdemo.cs" />
+    <Compile Include="constructor.cs" />
+    <Compile Include="constructor_exercise.cs" />
     <Compile Include="democlass.cs" />
     <Compile Include="frequncy.cs" />
     <Compile Include="sorted.cs" />
