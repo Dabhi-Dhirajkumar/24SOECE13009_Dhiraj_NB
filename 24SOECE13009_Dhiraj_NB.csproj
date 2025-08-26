@@ -49,10 +49,13 @@
     <Compile Include="constructor_exercise.cs" />
     <Compile Include="democlass.cs" />
     <Compile Include="frequncy.cs" />
+    <Compile Include="property.cs" />
     <Compile Include="sorted.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="search.cs" />
     <Compile Include="maximum.cs" />
+    <Compile Include="static_practice.cs" />
+    <Compile Include="sttatic.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
